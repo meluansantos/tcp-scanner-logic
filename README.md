@@ -80,6 +80,6 @@ Este projeto está sob a licença MIT.
 
 ## 👤 Autor
 
-**Meluan Santos**
+**Luan Rodrigues**
 
-- GitHub: [@meluansantos](https://github.com/meluansantos)
+- Blog: [Luan Rodrigues](https://luansantos.net)
